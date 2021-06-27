@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.7;
+pragma solidity 0.7.4;
 
-import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
-import "@openzeppelin/contracts/utils/math/SafeMath.sol";
+import "./Ownable.sol";
+import "./ReentrancyGuard.sol";
+import "./SafeMath.sol";
 
 import "./IFactory.sol";
 import "./MetaCollectible.sol";

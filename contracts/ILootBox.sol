@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.7;
+pragma solidity 0.7.4;
 
 /**
  * This is a generic lootbox contract that can be used to mint or send random tokens. The configuration
