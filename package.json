@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@0xsequence/erc-1155": "^3.0.4",
+    "@openzeppelin/contracts": "^4.1.0"
+  }
+}
